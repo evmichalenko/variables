@@ -1,6 +1,6 @@
 #include <cs50.h>
 #include <stdio.h>  
-//This is a change
+
 int main(void)
 {
     int age = get_int("Enter your age: ");
